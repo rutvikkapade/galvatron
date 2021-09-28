@@ -1,0 +1,12 @@
+.navigationBar{
+    background-color: black;
+    height: auto;
+    width: 100%;
+    padding: 2px;
+}
+.navigationA{
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+
+}
